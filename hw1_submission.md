@@ -1,6 +1,3 @@
-Name: Julia Venturini
-Email: juliaventurini00@gmail.com
-
 ## Question 1:
 For algorithm 1:
 Mean time for 10 executions using 1 thread was:

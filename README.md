@@ -1,2 +1,3 @@
-# blank
-This is a blank repo
+Name: Julia Venturini
+Email: juliaventurini00@gmail.com
+
